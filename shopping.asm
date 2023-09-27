@@ -2,7 +2,7 @@
 .STACK 1000H   ; SIZE OF STACK = 1000H
 
 .DATA
-M1 DB 10,13,10,13,' ****VIT APPAREL STORE****$',10,13
+M1 DB 10,13,10,13,' ****COSMO STORE****$',10,13
 M2 DB 10,13,10,13,'Select action $'
 M3 DB 10,13,' ** 1.Nike **$'
 M4 DB 10,13,' ** 2.Cantabil **$'
